@@ -1,0 +1,15 @@
+{
+  "ad": "Ahmet",
+  "soyad": "Kaya",
+  "dogum_tarihi": "13.04.1995",
+  "cinsiyet": "Erkek",
+  "adres": {
+    "sehir": "Ankara",
+    "ulke": "Türkiye",
+    "posta_kodu": "06990"
+  },
+  "telefon": "123456789",
+  "ise_giris_tarihi": "16.05.2023",
+  "calistigi_birim": "Yazılım Geliştirme",
+  "maas": "45800"
+}

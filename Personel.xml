@@ -1,0 +1,16 @@
+<personel>
+        <ad>Ahmet</ad>
+        <soyad>Kaya</soyad>
+        <dogum_tarihi>13.04.1995</dogum_tarihi>
+        <cinsiyet>Erkek</cinsiyet>
+        <adres>
+            <sehir>Ankara</sehir>
+            <ulke>Türkiye</ulke>
+            <posta_kodu>06990</posta_kodu>
+        </adres>
+        <telefon>123456789</telefon>
+        <ise_giris_tarihi>16.05.2023</ise_giris_tarihi>
+        <calistigi_birim>Yazılım Gelistirme</calistigi_birim>
+        <maas>45800</maas>
+</personel>
+
